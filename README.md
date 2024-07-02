@@ -5,11 +5,11 @@
 Welcome to my GitHub profile! I'm a passionate data scientist and web developer who loves turning complex data into actionable insights and crafting interactive web experiences. Here, you'll find some of my projects and contributions to the world of technology.
 
 ### 🌟 About Me
-- 🔭 I’m currently working on: [Your Current Project]
-- 🌱 I’m currently learning: [Current Learning Path]
-- 👯 I’m looking to collaborate on: [Project Type]
-- 💬 Ask me about: Data Science, Web Development, Machine Learning
-- 📫 How to reach me: [Your Email] | [LinkedIn](your LinkedIn profile)
+- 🔭 I’m currently working on: Machine Learning and Neaural network.
+- 🌱 I’m currently learning: CNN and RNN.
+- 👯 I’m looking to collaborate on: Web Development or Data Science related projects.
+- 💬 Ask me about: Data Science, Web Development, Machine Learning.
+- 📫 Reach me at : [gadhavi121298@gmail.com](mailto:gadhavi121298@gmail.com)
 
 ### 🔧 Technologies & Tools
 
@@ -56,9 +56,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and web developer 
 - [google map reviews extractor](https://github.com/Charan121298/google-map-reviews-extractor): A Python tool to scrape and analyze reviews from Google Maps reviews.
 
 ### 🌐 Connect with Me
-- ![LinkedIn]()
-- ![Twitter]()
-- ![Email]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-tapariya-249822193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 ---
 

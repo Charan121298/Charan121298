@@ -1,15 +1,13 @@
-## 🚀 Data Scientist | Web Developer
-
 Welcome to my GitHub profile! I'm a passionate data scientist and web developer who loves turning complex data into actionable insights and crafting interactive web experiences. Here, you'll find some of my projects and contributions to the world of technology.
 
-### 🌟 About Me
-🛠 I’m currently working on: Machine Learning and Neaural network.<br/>
+## 🎭 About Me
+&nbsp;&nbsp;&nbsp;&nbsp;🛠 I’m currently working on: Machine Learning and Neaural network.<br/>
 
-💻 I’m currently learning: CNN and RNN.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;💻 I’m currently learning: CNN and RNN.<br/>
 
-🥽 I’m looking to collaborate on: Web Development or Data Science related projects.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🥽 I’m looking to collaborate on: Web Development or Data Science related projects.<br/>
 
-✨ Ask me about: Data Science, Web Development, Machine Learning.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Ask me about: Data Science, Web Development, Machine Learning.<br/>
 
 ### 🖥 Technologies & Tools
 

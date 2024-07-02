@@ -61,4 +61,6 @@ Welcome to my GitHub profile! I'm a passionate data scientist and web developer 
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech.
+Thanks for stopping by !<br/> 
+
+Emails are welcomed at : gadhavi121298@gmail.com

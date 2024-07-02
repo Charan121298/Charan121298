@@ -52,6 +52,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and web developer 
 - [Musica](https://musica-v1.web.app/): A Music streming web app based on React.
 - [Movie recommender system](https://prakash1212.pythonanywhere.com/): A Machine learning model that recommands movies based on content filtering.
 - [google map reviews extractor](https://github.com/Charan121298/google-map-reviews-extractor): A Python tool to scrape and analyze reviews from Google Maps reviews.
+- [My website](https://prakash-tapariya.web.app/) : All project are listed here as well.
 
 ### 📲 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadhavi121298@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-tapariya-249822193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() 

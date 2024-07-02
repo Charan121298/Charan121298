@@ -3,13 +3,13 @@
 Welcome to my GitHub profile! I'm a passionate data scientist and web developer who loves turning complex data into actionable insights and crafting interactive web experiences. Here, you'll find some of my projects and contributions to the world of technology.
 
 ### 🌟 About Me
-- 🔭 I’m currently working on: Machine Learning and Neaural network.
-- 🌱 I’m currently learning: CNN and RNN.
-- 👯 I’m looking to collaborate on: Web Development or Data Science related projects.
-- 💬 Ask me about: Data Science, Web Development, Machine Learning.
-- 📫 Reach me at : [gadhavi121298@gmail.com](mailto:gadhavi121298@gmail.com)
+🛠 I’m currently working on: Machine Learning and Neaural network.<br/>
+💻 I’m currently learning: CNN and RNN.<br/>
+🥽 I’m looking to collaborate on: Web Development or Data Science related projects.<br/>
+✨ Ask me about: Data Science, Web Development, Machine Learning.<br/>
+📳  Reach me at : [gadhavi121298@gmail.com](mailto:gadhavi121298@gmail.com)<br/>
 
-### 🔧 Technologies & Tools
+### 🖥 Technologies & Tools
 
 #### Data Science Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,12 +48,12 @@ Welcome to my GitHub profile! I'm a passionate data scientist and web developer 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🛠️ Projects & Repositories
+### 🧩 Projects 
 - [Musica](https://musica-v1.web.app/): A Music streming web app based on React.
 - [Movie recommender system](https://prakash1212.pythonanywhere.com/): A Machine learning model that recommands movies based on content filtering.
 - [google map reviews extractor](https://github.com/Charan121298/google-map-reviews-extractor): A Python tool to scrape and analyze reviews from Google Maps reviews.
 
-### 🌐 Connect with Me
+### 📲 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-tapariya-249822193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 ---

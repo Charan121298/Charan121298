@@ -1,5 +1,3 @@
-# Hi there, I'm Prakash Tapariya 👋
-
 ## 🚀 Data Scientist | Web Developer
 
 Welcome to my GitHub profile! I'm a passionate data scientist and web developer who loves turning complex data into actionable insights and crafting interactive web experiences. Here, you'll find some of my projects and contributions to the world of technology.

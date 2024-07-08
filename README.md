@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a passionate data scientist and web developer 
 
 &nbsp;&nbsp;&nbsp;&nbsp;💻 I’m currently learning: CNN and RNN.<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;🥽 I’m looking to collaborate on: Web Development or Data Science related projects.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🥽 I’m looking to collaborate on: Web Development, Web scrapping or Data Science related projects.<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;✨ Ask me about: Data Science, Web Development, Machine Learning.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Ask me about: Data Science, Web Development, Web scrapping, Machine Learning.<br/>
 
 ### 🖥 Technologies & Tools
 

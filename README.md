@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and web developer 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VBA](https://img.shields.io/badge/VBA-8674A1?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 #### Data Science & Machine Learning:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)

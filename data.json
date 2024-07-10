@@ -1,39 +1,38 @@
 [
     {
-      "title": "1. Movies Recommendation System",
-      "description": "It suggests movies based on user preferences and provides personalized recommendations. Visit the Movie Recommendation System to explore personalized movie suggestions tailored just for you!",
-      "demoLink": "https://prakash1212.pythonanywhere.com/",
-      "sorceCode": "https://github.com/Charan121298/Movie-recommender-system",
-      "stack": ["Python", "Flask", "Machine Learning", "Scikit-learn", "scipy", "fuzzywuzzy", "Pandas", "Numpy"],
-      "Image": "https://raw.githubusercontent.com/Charan121298/Charan121298/main/movie-recom-project.svg",
-      "DisplayDemo": 1
+        "title": "1. Movies Recommendation System",
+        "description": "It suggests movies based on user preferences and provides personalized recommendations. Visit the Movie Recommendation System to explore personalized movie suggestions tailored just for you!",
+        "demoLink": "https://prakash1212.pythonanywhere.com/",
+        "sourceCode": "https://github.com/Charan121298/Movie-recommender-system",
+        "stack": ["Python", "Flask", "Machine Learning", "Scikit-learn", "scipy", "fuzzywuzzy", "Pandas", "Numpy"],
+        "image": "https://raw.githubusercontent.com/Charan121298/Charan121298/main/movie-recom-project.svg",
+        "displayDemo": 1
     },
     {
-      "title": "2. Musica - A music streaming app",
-      "description": "Musica is a comprehensive music app that demonstrates my ability to integrate complex features seamlessly.this project highlights my skills in full-stack development and innovative design.",
-      "demoLink": "https://musica-v1.web.app/",
-      "sorceCode": "https://github.com/Charan121298/Musica",
-      "stack": ["Node.js", "React", "JavaScript", "Firebase", "Auth2.0", "HTML", "CSS"],
-      "Image": "https://raw.githubusercontent.com/Charan121298/Charan121298/main/Musica.svg",
-      "DisplayDemo": 1
+        "title": "2. Musica - A music streaming app",
+        "description": "Musica is a comprehensive music app that demonstrates my ability to integrate complex features seamlessly. This project highlights my skills in full-stack development and innovative design.",
+        "demoLink": "https://musica-v1.web.app/",
+        "sourceCode": "https://github.com/Charan121298/Musica",
+        "stack": ["Node.js", "React", "JavaScript", "Firebase", "Auth2.0", "HTML", "CSS"],
+        "image": "https://raw.githubusercontent.com/Charan121298/Charan121298/main/Musica.svg",
+        "displayDemo": 1
     },
     {
-      "title": "3. Google map reviews extractor",
-      "description": "A Python tool to scrape and analyze reviews from Google Maps. Collect review data, including text, ratings, dates, and reviewer names, for any business or location. Save the extracted data in CSV",
-      "demoLink": "#",
-      "sorceCode": "https://github.com/Charan121298/google-map-reviews-extractor",
-      "stack": ["Python", "beautifulsoup4", "Pandas", "selenium"],
-      "Image": "https://raw.githubusercontent.com/Charan121298/Charan121298/main/googleMap.svg",
-      "DisplayDemo": 0
+        "title": "3. Google Map Reviews Extractor",
+        "description": "A Python tool to scrape and analyze reviews from Google Maps. Collect review data, including text, ratings, dates, and reviewer names, for any business or location. Save the extracted data in CSV.",
+        "demoLink": "#",
+        "sourceCode": "https://github.com/Charan121298/google-map-reviews-extractor",
+        "stack": ["Python", "beautifulsoup4", "Pandas", "selenium"],
+        "image": "https://raw.githubusercontent.com/Charan121298/Charan121298/main/googleMap.svg",
+        "displayDemo": 0
     },
-        {
-      "title": "4. VBA Automation tool",
-      "description": "VBA scripts designed to automate redundant tasks such as copying, moving, renaming files, and downloading emails. By using these scripts, you can streamline your workflow and save valuable time.",
-      "demoLink": "#",
-      "sorceCode": "https://github.com/Charan121298/VBA-Automation",
-      "stack": ["VBA", "Macros", "Excel"],
-      "Image": "https://raw.githubusercontent.com/Charan121298/Charan121298/main/vba.svg",
-      "DisplayDemo": 0
+    {
+        "title": "4. VBA Automation Tool",
+        "description": "VBA scripts designed to automate redundant tasks such as copying, moving, renaming files, and downloading emails. By using these scripts, you can streamline your workflow and save valuable time.",
+        "demoLink": "#",
+        "sourceCode": "https://github.com/Charan121298/VBA-Automation",
+        "stack": ["VBA", "Macros", "Excel"],
+        "image": "https://raw.githubusercontent.com/Charan121298/Charan121298/main/vba.svg",
+        "displayDemo": 0
     }
-  ]
-  
+]

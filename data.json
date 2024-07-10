@@ -10,7 +10,7 @@
     },
     {
       "title": "2. Musica - A music streaming app",
-      "description": "Musica is a comprehensive music app that demonstrates my ability to integrate complex features seamlessly. From sophisticated playlist algorithms to immersive visualizations, this project highlights my skills in full-stack development and innovative design.",
+      "description": "Musica is a comprehensive music app that demonstrates my ability to integrate complex features seamlessly.this project highlights my skills in full-stack development and innovative design.",
       "demoLink": "https://musica-v1.web.app/",
       "sorceCode": "https://github.com/Charan121298/Musica",
       "stack": ["Node.js", "React", "JavaScript", "Firebase", "Auth2.0", "HTML", "CSS"],

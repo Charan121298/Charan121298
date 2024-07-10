@@ -27,8 +27,8 @@
       "DisplayDemo": 0
     },
     {
-      "title": "3. Google map reviews extractor",
-      "description": "A Python tool to scrape and analyze reviews from Google Maps. Collect review data, including text, ratings, dates, and reviewer names, for any business or location. Save the extracted data in CSV",
+      "title": "4. Google map reviews extractor",
+      "description": "4 Python tool to scrape and analyze reviews from Google Maps. Collect review data, including text, ratings, dates, and reviewer names, for any business or location. Save the extracted data in CSV",
       "demoLink": "#",
       "sorceCode": "https://github.com/Charan121298/google-map-reviews-extractor",
       "stack": ["Python", "beautifulsoup4", "Pandas", "selenium"],

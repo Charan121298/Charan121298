@@ -31,7 +31,7 @@
       "description": "VBA scripts designed to automate redundant tasks such as copying, moving, renaming files, and downloading emails. By using these scripts, you can streamline your workflow and save valuable time.",
       "demoLink": "#",
       "sorceCode": "https://github.com/Charan121298/VBA-Automation",
-      "stack": ["VBA", "Macros", "Excel"]
+      "stack": ["VBA", "Macros", "Excel"],
       "Image": "https://raw.githubusercontent.com/Charan121298/Charan121298/main/vba.svg",
       "DisplayDemo": 0
     }

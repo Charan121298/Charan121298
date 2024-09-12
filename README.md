@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I'm a passionate data scientist and web developer who loves turning complex data into actionable insights and crafting interactive web experiences. Here, you'll find some of my projects and contributions to the world of technology.
+Welcome to my GitHub profile! I'm a passionate web developer who loves turning complex data into actionable insights and crafting interactive web experiences. Here, you'll find some of my projects and contributions to the world of technology.
 
 ## 🎭 About Me
 &nbsp;&nbsp;&nbsp;&nbsp;🛠 I’m currently working on: Machine Learning and Neural Networks.<br/>

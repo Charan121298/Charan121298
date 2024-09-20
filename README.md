@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello,+I+AM+PRAKASH" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=false&vCenter=true&width=435&lines=Hello,+I+am+Prakash+!" alt="Typing SVG" />
 </p>
 
 **Python Developer** with a deep passion for **Machine Learning** and **Artificial Intelligence**. 

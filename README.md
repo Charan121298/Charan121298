@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=HI+I+AM+PRAKASH" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello,+I+AM+PRAKASH" alt="Typing SVG" />
 </p>
 
-I'm a dedicated **Python Developer** with a deep passion for **Machine Learning** and **Artificial Intelligence**. My goal is to leverage the power of data and algorithms to build intelligent systems that solve real-world problems. Here, you’ll find projects that showcase my work in **ML**, **AI**, **Data Science** and **Web Development**.
-
+**Python Developer** with a deep passion for **Machine Learning** and **Artificial Intelligence**. 
 ## 🎭 About Me
 &nbsp;&nbsp;&nbsp;&nbsp;🛠 I’m currently working on: Machine Learning models and Neural Networks.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;💻 I’m currently learning: Deep Learning with CNNs and RNNs.<br/>

@@ -2,65 +2,71 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=false&vCenter=true&width=435&lines=Hello,+I+am+Prakash+!" alt="Typing SVG" />
 </p>
 
-**Python Developer** with a deep passion for **Machine Learning** and **Artificial Intelligence**. 
-## 🎭 About Me
-&nbsp;&nbsp;&nbsp;&nbsp;🛠 I’m currently working on: Machine Learning models and Neural Networks.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;💻 I’m currently learning: Deep Learning with CNNs and RNNs.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;🤖 I’m looking to collaborate on: Python development, Machine Learning, and AI projects.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;✨ Ask me about: Python, Machine Learning, Neural Networks, and AI.<br/>
+## 👋 About Me
 
-### 🖥 Technologies & Tools
+I'm a **Python Developer** passionate about building intelligent systems with **Machine Learning** and **Artificial Intelligence**. I enjoy crafting solutions that turn raw data into actionable insights.
 
-#### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Data Science & Machine Learning:
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C6C9E?style=for-the-badge&logo=seaborn&logoColor=white)
-
-#### Web Development Frameworks:
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Database Management:
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### Web Scraping:
-![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-4-59666C?style=for-the-badge&logo=beautifulsoup&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-1C1C1C?style=for-the-badge&logo=scrapy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-#### Visualization & BI Tools:
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-#### Version Control & DevOps:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🧩 Projects 
-- [Musica](https://musica-v1.web.app/): A Music streaming web app built with React.
-- [Movie Recommendation System](https://prakash1212.pythonanywhere.com/): A Flask-based app that uses Machine Learning to recommend movies.
-- [Google Map Reviews Extractor](https://github.com/Charan121298/google-map-reviews-extractor): A Python tool to scrape and analyze reviews from Google Maps.
-- [My Website](https://prakash-tapariya.web.app/): All my projects are showcased here.
-
-### 📲 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadhavi121298@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-tapariya-249822193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🛠 Currently working on: ML models and Neural Networks  
+- 💻 Learning: Deep Learning (CNNs, RNNs)  
+- 🤖 Looking to collaborate on: Python, ML, and AI projects  
+- ✨ Ask me about: Python, ML, Neural Networks, AI  
 
 ---
 
-Thanks for stopping by! Feel free to reach out via email: gadhavi121298@gmail.com
+## 🧠 Technologies I Use
+
+### Programming:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Machine Learning & Data Science:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### Web Development:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases & Tools:
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🧩 Projects
+
+- 🎧 [Musica](https://musica-v1.web.app/): A music streaming web app built with React and Firebase.
+- 🎬 [Movie Recommendation System](https://prakash1212.pythonanywhere.com/): Flask-based ML app suggesting movies based on user preferences.
+- 🗺️ [Google Map Reviews Extractor](https://github.com/Charan121298/google-map-reviews-extractor): A Python scraper for analyzing Google Maps reviews.
+- 🌐 [My Website](https://prakash-tapariya.web.app/): Portfolio showcasing my projects and skills.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charan121298&show_icons=true&theme=radical&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true" alt="Prakash's GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charan121298&theme=dracula" alt="GitHub Streak" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan121298&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+</div>
+
+---
+
+## 📲 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadhavi121298@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-tapariya-249822193)
+
+---
+
+Thanks for visiting! Feel free to reach out. Let's build something amazing.
